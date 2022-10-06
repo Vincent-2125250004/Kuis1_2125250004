@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kuis</string>
+    <string-array name="arr_negara">
+        <item>Indonesia</item>
+        <item>Singapore</item>
+    </string-array>
+</resources>
